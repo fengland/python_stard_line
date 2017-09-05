@@ -1,0 +1,2 @@
+# python_stard_line
+linux_python_study
